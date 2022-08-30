@@ -15,19 +15,21 @@ A cv was created based on html5 only
 		<div class="left">
 			<div class="image">
 				<img src=
-“https://www.freepik.com/free-photos-vectors/excited-student”					style="width:100px;height:100px;">
+"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
+					alt="gfg-logo"
+					style="width:100px;height:100px;">
 			</div>
 			<div class="Contact">
 				<h2>Contact</h2>
 				
 
-<p><b>Email id:</b>2019WB86276@wilp.bits-pilani.ac.in</p>
+<p><b>Email id:</b>xyz@gmail.com</p>
 
 
 
 				
 
-<p><b>Mobile no :</b>9014447203</p>
+<p><b>Mobile no :</b>1234567890</p>
 
 
 			</div>
@@ -82,7 +84,7 @@ A cv was created based on html5 only
 			</div>
 			<div class="Experience">
 				<h2>Experience</h2>
-				<h3>Wipro ltd - Senior Web Developer</h3>
+				<h3>Abc webdev pvt ltd - Senior Web Developer</h3>
 				
 
 <p>January 2022 to Present</p>
@@ -94,7 +96,7 @@ A cv was created based on html5 only
 					design and development.</li>
 					<li>Designing project & planing</li>
 				</ul>
-				<h3>Infosys pvt ltd - Junior web developer</h3>
+				<h3>Xyz webdev pvt ltd - junior web developer</h3>
 				
 
 <p>August 2021 to December 2021</p>
@@ -113,19 +115,16 @@ A cv was created based on html5 only
 				<table>
 					<tr>
 						<th>University/college </th>
-                                                                   <th>Branch </th>
 						<th>Passing year </th>
 						<th>percentage/cgpa</th>
 					</tr>
 					<tr>
-						<td>Aditya Degree college</td>
-						<td>Degree</td>
+						<td>xyz</td>
 						<td>2020</td>
 						<td>8.9</td>
 					</tr>
 					<tr>
-						<td>Adi Kavi Nannaya university</td>
-						<td>PG</td>
+						<td>pqr</td>
 						<td>2018</td>
 						<td>89%</td>
 					</tr>
